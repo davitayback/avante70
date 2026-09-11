@@ -122,7 +122,7 @@ A soma estimada de todos os candidatos do Avante totaliza **92.589 votos**, posi
 | **1** | **Rogério Ulysses** | **70.321** | `@rogerioulysses` | 10.100 | **13.837** | **15.000+** | Líder da chapa. Ex-deputado distrital com recall de 14.932 votos. Forte inserção em São Sebastião. |
 | **2** | **Delegado Laércio** | **70.255** | `@delegadolaercioc` | 58.000 | **9.200** | **11.000** | Forte apelo na segurança pública. Vereador testado no entorno com forte rede local. |
 | **3** | **Daniel Radar** | **70.000** | `@danielradardf` | 21.300 | **8.632** | **10.000** | Base forte no Gama e Santa Maria. Rede de radares e trânsito. |
-| **4** | **Wilson Amigão** | **70.123** | `@wilson.amigao` | 10.000 | **7.900** | **8.500** | Piso histórico sólido de ~8.100 votos. Campanha muito estruturada. |
+| **4** | **Wilson Amigão** | **70.123** | `@wilson.amigao` | 10.000 | **7.900** | **10.000** | Piso histórico sólido de ~8.100 votos. Campanha muito estruturada. |
 | **5** | **Anderson Guiné** | **70.777** | `@andersonguineoficial` | 1.893 | **4.800** | **5.500** | Base de matriz religiosa ativa (Umbanda/fechamentos). Crescimento nas pesquisas. |
 | **6** | **Silene da Saúde** | **70.111** | `@silenedasaude` | 7.316 | **4.200** | **4.800** | Rede forte de servidores e usuários da saúde pública do DF. |
 | **7** | **Evaldo Lobato** | **70.555** | `@evaldolobatodf` | 16.400 | **3.870** | **4.300** | Segmento da saúde e servidores públicos com boa penetração. |
@@ -144,7 +144,8 @@ A soma estimada de todos os candidatos do Avante totaliza **92.589 votos**, posi
 | **23** | **Patrícia da Feira** | **70.077** | `@patricia_da_feira` | 2.397 | **1.011** | **1.300** | Fortemente enraizada no comércio popular (feirantes). |
 | **24** | **Cabo Vitório** | **70.190** | `@cbvitorio` | 8.889 | **801** | **1.100** | Atuação com praças e forças auxiliares da segurança pública. |
 | **25** | **Mari Teixeira** | **70.870** | `@mari_teixeiradf` | 1.202 | **579** | **800** | Base universitária e movimentos juvenis. |
-| - | **SOMA DA NOMINATA** | - | - | **256.401**| **92.589** | **106.600+**| **Suficiente para garantir a 1ª vaga distrital direta (QP) do Avante.** |
+| - | **SOMA DA NOMINATA** | - | - | **256.401**| **92.589** | **108.100+**| **Suficiente para garantir a 1ª vaga distrital direta (QP) do Avante.** |
+| - | **SEGUIDORES** | - | - | **256.401**| **-** | **-**| **22 CANDIDADOS ENGAJADOS COM A CAMPANHA** |
 
 ---
 
