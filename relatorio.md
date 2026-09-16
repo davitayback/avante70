@@ -1,134 +1,119 @@
-# Relatório Eleitoral — Avante/DF 2026
-## Quatro pesquisas IGAPE, redes sociais e projeção da nominata
+# Análise Avançada — Nominata Avante e São Sebastião/DF
+## Pesquisas IGAPE, projeção eleitoral, território e redes sociais
 
-> **Objetivo:** consolidar os dados disponíveis de pesquisa espontânea para Deputado Distrital, indicadores digitais, histórico político, bases territoriais e projeções da nominata do Avante no Distrito Federal.
-
----
-
-# 1. Nota metodológica
-
-Este relatório trabalha com três tipos de informação:
-
-1. **Pesquisa eleitoral espontânea:** mede lembrança e intenção declarada no momento da entrevista;
-2. **Indicadores digitais:** medem alcance, engajamento e capacidade de mobilização nas redes sociais;
-3. **Informações políticas e territoriais:** histórico eleitoral, base regional, categoria profissional, equipe, recursos declarados e campanha de rua.
-
-> **Nenhum desses fatores, isoladamente, equivale a voto garantido.** A projeção final é uma estimativa política que combina as três dimensões.
-
-As pesquisas IGAPE analisadas foram realizadas com:
-
-- **2.000 entrevistas** por rodada;
-- abrangência em todo o Distrito Federal;
-- entrevistas presenciais em domicílio;
-- margem de erro geral declarada de **±2,2 pontos percentuais**;
-- nível de confiança de **95%**.
-
-> A margem geral se aplica ao conjunto da amostra. Para candidatos abaixo de 1%, as diferenças entre uma rodada e outra podem representar poucas entrevistas e devem ser interpretadas com prudência.
+**Data de referência:** 16 de setembro de 2026  
+**Cargo analisado:** Deputado Distrital — Distrito Federal  
+**Partido analisado:** Avante  
+**Base de votos válidos usada na conversão:** 1.690.000 votos válidos  
+**Pesquisas analisadas:** DF-02390, DF-02089, DF-07879 e DF-09945/2026.
 
 ---
 
-# 2. Resumo técnico das quatro pesquisas
+# 1. Metogolodia, critérios e limites da análise
 
-| Pesquisa | Registro | Campo | Divulgação | Entrevistas | Margem de erro | Confiança | Indecisos para Distrital |
+Este relatório combina quatro dimensões:
+
+1. **Pesquisa espontânea:** lembrança declarada pelo eleitor no momento da entrevista;
+2. **Projeção política:** avaliação de território, campanha, histórico, categoria profissional, recursos, alianças e estrutura;
+3. **Redes sociais:** seguidores, atividade, interações e potencial de mobilização;
+4. **Dados territoriais:** eleitorado das Regiões Administrativas e concentração de base.
+
+> **A pesquisa não mede toda a estrutura de campanha.** Candidatos com voto comunitário, religioso, profissional, empresarial, territorial ou de máquina podem entregar votação superior à lembrança espontânea.
+
+> **Seguidores não equivalem a votos.** O dado decisivo é quantos seguidores estão no Distrito Federal, reconhecem o candidato, interagem, entram em grupos, comparecem a eventos e podem ser mobilizados presencialmente.
+
+---
+
+# 2. Conversão de pesquisa em votos
+
+Considerando uma projeção de:
+
+## 1.690.000 votos válidos 
+
+### cada variação de: 0,1% = 1.690
+
+
+> Esta conversão é uma **simulação matemática de voto válido**. Não é previsão automática de urna, porque pesquisa espontânea mede eleitores entrevistados, enquanto a eleição real envolve abstenção, brancos, nulos, voto de estrutura e decisão tardia.
+
+---
+
+# 3. Séries das quatro pesquisas — candidatos do Avante
+
+
+## 3.1. Resumo técnico das quatro pesquisas
+
+| Pesquisa |Nº. Registro TSE | Campo | Divulgação | Entrevistas | Margem de erro | Confiança | Indecisos para Distrital |
 |---|---|---|---|---:|---:|---:|---:|
-| Pesquisa 1 | DF-02390/2026 | 10 a 15/08/2026 | 16/08/2026 | 2.000 | ±2,2 p.p. | 95% | 27,3% |
-| Pesquisa 2 | DF-02089/2026 | 25 a 29/08/2026 | 30/08/2026 | 2.000 | ±2,2 p.p. | 95% | 24,2% |
-| Pesquisa 3 | DF-07879/2026 | 31/08 a 05/09/2026 | 06/09/2026 | 2.000 | ±2,2 p.p. | 95% | 26,3% |
-| Pesquisa 4 | DF-09945/2026 | 08 a 12/09/2026 | 13/09/2026 | 2.000 | ±2,2 p.p. | 95% | 23,7% |
+| Pesquisa 1| DF-02390/2026 | 10 a 15/08/2026 | 16/08/2026 | 2.000 | ±2,2 p.p. | 95% | 27,3% |
+| Pesquisa 2| DF-02089/2026 | 25 a 29/08/2026 | 30/08/2026 | 2.000 | ±2,2 p.p. | 95% | 24,2% |
+| Pesquisa 3| DF-07879/2026 | 31/08 a 05/09/2026 | 06/09/2026 | 2.000 | ±2,2 p.p. | 95% | 26,3% |
+| Pesquisa 4| DF-09945/2026 | 08 a 12/09/2026 | 13/09/2026 | 2.000 | ±2,2 p.p. | 95% | 23,7% |
 
-> **Observação documental:** os dados da Pesquisa 4 foram incorporados conforme a transcrição utilizada pela coordenação. O relatório registrado completo deve acompanhar a versão definitiva para auditoria integral dos percentuais e da metodologia.
+> **Observação documental:** os dados da Pesquisa 4 foram incorporados conforme a transcrição utilizada pela coordenação. O relatório registrado completo deve acompanhar a versão definitiva para auditoria integral dos percentuais e da metodologia. 
 
----
-
-# 3. Evolução dos indecisos para Deputado Distrital
-
-| Pesquisa | Indecisos / não opinou | Equivalente em uma amostra de 2.000 |
-|---|---:|---:|
-| DF-02390 | 27,3% | 546 pessoas |
-| DF-02089 | 24,2% | 484 pessoas |
-| DF-07879 | 26,3% | 526 pessoas |
-| DF-09945 | 23,7% | 474 pessoas |
-
-A variação observada foi:
-
-#### 27,3%
-#### 24,2%
-#### 26,3%
-#### 23,7%
-
-
-A queda líquida entre a primeira e a quarta rodada é de:
-
-#### 27,3%
-#### 23,7%
-### = 3,6 pontos percentuais
-
-## Leitura
-
-A disputa para Deputado Distrital permanece altamente aberta:
-
-- quase **um quarto do eleitorado** ainda não declarava um nome na quarta rodada;
-- a indecisão oscilou, não caiu em linha reta;
-- parte do eleitor decide distrital apenas nas últimas semanas;
-- em eleições proporcionais, o voto territorial, setorial, comunitário e de indicação pessoal pode ser subcaptado pela pesquisa espontânea.
-
-> A redução dos indecisos favorece candidatos com presença real de rua, redes de lideranças, categorias organizadas e capacidade de conversão nos territórios.
+[Link de pesquisas do TSE (atualizado)](https://pesqele-divulgacao.tse.jus.br/app/pesquisa/listar.xhtml)
 
 ---
 
-# 4. Principais números da disputa para Distrital
+## 3.2. Média estrita das quatro rodadas P1, P2, P3 e P4
 
-| Indicador | Pesquisa 1 | Pesquisa 2 | Pesquisa 3 | Pesquisa 4 | Leitura |
-|---|---:|---:|---:|---:|---|
-| Chico Vigilante | 5,3% | 4,0% | 4,1% | 3,3% | Lidera as rodadas, mas recua no período |
-| Joaquim Roriz Neto | 4,1% | 4,0% | 3,8% | 3,7% | Estabilidade em patamar alto |
-| Jaqueline Silva | 3,2% | 4,1% | 3,5% | 3,0% | Oscilação competitiva |
-| Pepa | 2,7% | 3,0% | 3,8% | 3,2% | Mantém-se no grupo forte |
-| Fernando Fernandes | 3,5% | 3,2% | 3,1% | 2,8% | Tendência moderada de queda |
-| Rogério Morro da Cruz | 1,9% | 1,2% | 0,9% | 0,7% | Queda nominal ao longo da série |
-| **Rogério Ulysses** | **0,3%** | **1,2%** | **0,9%** | **0,9%** | Cresce na segunda rodada e estabiliza nas duas últimas |
+A tabela abaixo usa a média das quatro pesquisas. Quando um nome não apareceu nominalmente em determinada rodada, o dado é tratado como **não divulgado individualmente**, e não como ausência absoluta de intenção de voto.
 
----
+| Candidato | P1 | P2 | P3 | P4 | Média das 4 rodadas | Equivalente em votos | Leitura de evolução |
+|---|---:|---:|---:|---:|---:|---:|---|
+| **Rogério Ulysses** | 0,3% | 1,2% | 0,9% | 0,9% | **0,825%** | **13.943** | Cresceu na série nominal e estabilizou nas duas últimas |
+| Delegado Laércio | 0,7% | 0,5% | 0,5% | 0,2% | **0,475%** | **8.028** | Queda nominal de 71,4% entre P1 e P4 |
+| Daniel Radar | — | 0,6% | 0,4% | 0,5% | **0,375%** | **6.338** | Caiu de P2 para P3 e recuperou parcialmente em P4 |
+| Silene da Saúde | 0,3% | 0,3% | 0,2% | 0,2% | **0,250%** | **4.225** | Redução nominal de 33,3% entre P1 e P4 |
+| Anderson Guiné | — | — | 0,3% | 0,2% | **0,125%** | **2.113** | Caiu 33,3% entre as duas rodadas em que apareceu |
+| Issa | — | 0,3% | — | — | **0,075%** | **1.268** | Menção isolada; sem série suficiente |
+| Evaldo Lobato | — | — | — | 0,3% | **0,075%** | **1.268** | Entrada nominal na rodada mais recente |
+| Gabriela Freire | — | — | — | 0,3% | **0,075%** | **1.268** | Entrada nominal na rodada mais recente |
+| Marcele Mama | — | — | — | 0,2% | **0,050%** | **845** | Entrada nominal na rodada mais recente |
 
-# 5. Observação sobre “Rogérinho de São Sebastião”
-
-Na Pesquisa 1, o relatório apresentou separadamente:
-
-- **Rogério Ulysses:** 0,3%;
-- **Rogérinho de São Sebastião:** 1,1%.
-
-Como ambos são associados politicamente à mesma pessoa, há duas leituras possíveis:
-
-| Leitura | Percentual |
-|---|---:|
-| Série nominal estrita — nome “Rogério Ulysses” | 0,3% |
-| Leitura política agregada — “Rogério Ulysses” + “Rogérinho de São Sebastião” | 1,4% |
-
-A forma tecnicamente mais prudente é:
-
-> A pesquisa não unificou formalmente as duas respostas. Portanto, a série estatística estrita usa **0,3%** na primeira rodada. Porém, a presença simultânea de “Rogérinho de São Sebastião” com 1,1% é evidência de reconhecimento territorial da mesma figura política e deve ser considerada qualitativamente.
+> **Importante:** a média de quatro rodadas reduz fortemente candidatos que apareceram apenas uma vez. Para Evaldo, Gabriela, Issa e Marcele, essa média não deve ser usada como previsão de votos, pois a ausência de menção individual nas outras pesquisas não comprova votação zero.
 
 ---
 
-# 6. Candidatos do Avante nas quatro pesquisas
+## 3.3. Média entre as rodadas em que o nome apareceu
 
-| Candidato | Pesquisa 1 | Pesquisa 2 | Pesquisa 3 | Pesquisa 4 | Média simples das menções | Presença |
-|---|---:|---:|---:|---:|---:|---:|
-| **Rogério Ulysses** | 0,3% | 1,2% | 0,9% | 0,9% | **0,83%** | 4 de 4 |
-| Delegado Laércio | 0,7% | 0,5% | 0,5% | 0,2% | **0,48%** | 4 de 4 |
-| Daniel Radar | — | 0,6% | 0,4% | 0,5% | **0,50%** | 3 de 4 |
-| Silene/Sirlene da Saúde | 0,3% | 0,3% | 0,2% | 0,2% | **0,25%** | 4 de 4 |
-| Anderson Guiné | — | — | 0,3% | 0,2% | **0,25%** | 2 de 4 |
-| Issa | — | 0,3% | — | — | 0,30% | 1 de 4 |
-| Evaldo Lobato | — | — | — | 0,3% | 0,30% | 1 de 4 |
-| Gabriela Freire | — | — | — | 0,3% | 0,30% | 1 de 4 |
-| Marcele Mama | — | — | — | 0,2% | 0,20% | 1 de 4 |
-
-> O traço significa que o nome não foi localizado nominalmente no quadro divulgado. Isso não significa ausência total de intenção de voto: pode significar pontuação abaixo do limite de divulgação ou inclusão em “Outros”.
+| Candidato | Média apenas das pesquisas em que foi citado | Equivalente em votos válidos | Interpretação |
+|---|---:|---:|---|
+| **Rogério Ulysses** | **0,825%** | **13.943** | Série completa de quatro rodadas |
+| Delegado Laércio | **0,475%** | **8.028** | Série completa de quatro rodadas |
+| Daniel Radar | **0,500%** | **8.450** | Presença em três pesquisas |
+| Silene da Saúde | **0,250%** | **4.225** | Série completa de quatro rodadas |
+| Anderson Guiné | **0,250%** | **4.225** | Duas menções recentes |
+| Issa | **0,300%** | **5.070** | Apenas uma menção; leitura inicial |
+| Evaldo Lobato | **0,300%** | **5.070** | Apenas uma menção; leitura inicial |
+| Gabriela Freire | **0,300%** | **5.070** | Apenas uma menção; leitura inicial |
+| Marcele Mama | **0,200%** | **3.380** | Apenas uma menção; leitura inicial |
 
 ---
 
-# 7. Leitura por candidato pesquisado
+## 3.4. Leitura correta das quedas e crescimentos
+
+Não é tecnicamente correto afirmar que **todos os candidatos caíram**.
+
+A série mostra três comportamentos distintos:
+
+| Comportamento | Candidatos | Leitura |
+|---|---|---|
+| Queda nominal recorrente | Delegado Laércio, Silene da Saúde, Rogério Morro da Cruz | Há redução observada, mas percentuais baixos exigem cautela |
+| Oscilação sem tendência linear clara | Daniel Radar, Rogério Ulysses | Ocorrem subidas e descidas dentro de amostras diferentes |
+| Entrada recente no radar espontâneo | Evaldo Lobato, Gabriela Freire, Marcele Mama | Não há série suficiente para medir queda ou crescimento |
+
+### Pontos de cautela
+
+- Cada pesquisa entrevistou pessoas diferentes;
+- em percentuais de 0,2%, 0,3% e 0,5%, poucas entrevistas alteram o resultado;
+- candidatos podem não aparecer individualmente e ainda estar incluídos em “Outros”;
+- o questionário espontâneo privilegia nomes de maior recall e pode subcaptar voto de estrutura;
+- uma queda de pesquisa não deve ser apresentada como perda definitiva sem confirmação em mais rodadas.
+
+---
+
+## 3.5. Leitura por candidato pesquisado
 
 | Candidato | Evolução | Interpretação prudente |
 |---|---|---|
@@ -136,284 +121,270 @@ A forma tecnicamente mais prudente é:
 | Delegado Laércio | 0,7% → 0,5% → 0,5% → 0,2% | Presença recorrente, mas queda nominal na rodada mais recente. Mantém potencial de voto de estrutura e segurança pública. |
 | Daniel Radar | — → 0,6% → 0,4% → 0,5% | Aparece nas três rodadas mais recentes e permanece próximo de 0,5%. Tem presença territorial relevante no eixo Gama/Santa Maria. |
 | Silene da Saúde | 0,3% → 0,3% → 0,2% → 0,2% | Recall geral baixo, porém estável. Pode converter voto setorial ligado à saúde e ao público feminino. |
-| Anderson Guiné | — → — → 0,3% → 0,2% | Surge nas duas últimas rodadas. Potencial associado a lideranças religiosas, cultura e Samambaia. |
+| Anderson Guiné | x → x → 0,3% → 0,2% | Surge nas duas últimas rodadas. Potencial associado a lideranças religiosas, cultura e Samambaia. |
 | Issa | — → 0,3% → — → — | Menção isolada em pesquisa; sua projeção deve depender mais de força territorial em Taguatinga e atividade digital. |
 | Evaldo Lobato | — → — → — → 0,3% | Menção inicial na quarta rodada; projeção deve considerar experiência política, equipe e base territorial. |
 | Gabriela Freire | — → — → — → 0,3% | Sinal inicial de lembrança; insuficiente para projeção estatística isolada. |
 | Marcele Mama | — → — → — → 0,2% | Sinal inicial de lembrança; depende de campanha comunitária e de nichos organizados. |
 
+| Método de leitura | Média | Conversão estimada |
+|---|---:|---:|
+| Série nominal estrita projetada | 0,825% | 13.943 votos |
+| Média das três pesquisas posteriores | 1,000% | 16.900 votos |
+| Leitura agregada da primeira pesquisa | 1,100% | 18.590 votos |
+|
+
+
+> A projeção eleitoral prudente de Rogério não deve usar automaticamente 18,5 mil votos. Esse é um número possível dadas as análises das pesquisas: DF-02390, DF-02089, DF-07879 e DF-09945/2026. Por estar empatado com um Parlamentar já eleito com 18.207 votos em 2018. Com um fundo eleitoral de aproximadamente 1 milhão, com 2 Administrações (São Sebastião, Jardim Botânico e Gabinete-CLDF)
+Caso ele mantenha um número razoável, estar empatado com ele nas últimas três pesquisas confirma que o Rogério Ulysses ultrapassa os 14 vil votos.
 ---
 
-# 8. Redes sociais: como entram na projeção
+# 5. Tabela consolidada — Nominata do Avante
 
-As redes sociais não devem ser convertidas diretamente em votos.
+## 5.1. Projeção política, redes sociais e base eleitoral
 
-Elas são utilizadas como indicador de:
-
-- mobilização orgânica;
-- alcance de conteúdo;
-- intensidade de campanha;
-- capacidade de ativar apoiadores;
-- crescimento de audiência;
-- potencial de conversão para agenda, WhatsApp, carreata e voto territorial.
-
-## Modelo de ponderação política
-
-| Dimensão | Peso sugerido |
-|---|---:|
-| Pesquisa espontânea e recorrência nominal | 35% |
-| Histórico eleitoral e base territorial | 30% |
-| Redes sociais e mobilização digital | 20% |
-| Recursos, campanha de rua e alianças | 15% |
-
-#### Projeção eleitoral =
-35%
-+
-30% histórico/território
-+
-20% digital
-+
-15% estrutura
-#### 
-> A fórmula é uma matriz de análise, não uma calculadora automática de votos.
-
----
-
-# 9. Ranking digital semanal do Avante
-
-Dados consolidados para a semana de **7 a 13 de setembro de 2026**.
-
-| Posição | Candidato | Seguidores | Publicações | Curtidas | Comentários | Interações | Interações por mil seguidores |
-|---:|---|---:|---:|---:|---:|---:|---:|
-| 1 | **Rogério Ulysses** | 10.194 | 19 | 3.173 | 951 | **4.124** | **404,6** |
-| 2 | Flávio Potiguar | 5.815 | 29 | 1.582 | 340 | **1.922** | **330,5** |
-| 3 | Silene da Saúde | 7.333 | 8 | 1.427 | 258 | **1.685** | **229,8** |
-| 4 | Cabo Vitório | 8.882 | 11 | 882 | 232 | **1.114** | **125,4** |
-| 5 | Dr. Caio Gracco | 4.173 | 5 | 1.027 | 76 | **1.103** | **264,3** |
-| 6 | Daniel Radar | 21.409 | 32 | 670 | 368 | **1.038** | 48,5 |
-| 7 | Delegado Laércio | 58.061 | 12 | 779 | 172 | **951** | 16,4 |
-| 8 | Issa | 3.132 | 16 | 590 | 74 | **664** | 212,0 |
-| 9 | Sandra Silva | 3.942 | 4 | 235 | 344 | **579** | 146,9 |
-| 10 | Wilson Amigão | 10.074 | 14 | 315 | 200 | **515** | 51,1 |
+| Rank | Candidato | Número | Projeção política | Instagram | Seguidores no material-base | Base, pauta ou território | Campanha | Leitura estratégica |
+|---:|---|---:|---:|---|---:|---|---|---|
+| 1 | **Rogério Ulysses** | 70.321 | **14.500 votos** | [@rogerioulysses](https://www.instagram.com/rogerioulysses) | 10.100 | São Sebastião, educação, Jardim Botânico e voto voluntário | Forte | Maior recorrência nas pesquisas, maior engajamento digital do Avante e forte identidade territorial |
+| 2 | Wilson Amigão | 70.123 | **12.300 votos** | [@wilson.amigao](https://www.instagram.com/wilson.amigao) | 10.000 | Gama e rede política local | Forte | Histórico informado de aproximadamente 8,1 mil votos; projeção depende de expansão real da estrutura |
+| 3 | Daniel Radar | 70.000 | **12.000 votos** | [@danielradardf](https://www.instagram.com/danielradardf) | 21.300 | Gama, Santa Maria, comunicação e rua | Forte | Tem recorrência em pesquisa, alto volume de conteúdo e potencial regional; sofre concorrência no mesmo eixo |
+| 4 | Delegado Laércio | 70.255 | **7.000 votos** | [@delegadolaercioc](https://www.instagram.com/delegadolaercioc) | 58.000 | Segurança pública e experiência eleitoral | Forte | Grande audiência nominal, mas queda em recall e retorno digital proporcional baixo |
+| 5 | Silene da Saúde | 70.111 | **5.500 votos** | [@silenedasaude](https://www.instagram.com/silenedasaude) | 7.316 | SUS, saúde e eleitorado feminino | Forte | Base temática responsiva; potencial de voto setorial acima do recall espontâneo |
+| 6 | Evaldo Lobato | 70.555 | **5.200 votos** | [@evaldolobatodf](https://www.instagram.com/evaldolobatodf) | 16.400 | Biologia, empresariado, experiência política e equipe | Média/Forte | Pontuou 0,3% na quarta rodada; piso operacional sustentado por estrutura e acompanhamento de campo |
+| 7 | Gabriela Freire | 70.100 | **5.000 votos** | [@gabrielafreireadv](https://www.instagram.com/gabrielafreireadv) | 7.362 | Advocacia, rede profissional e pauta social | Média/Forte | Pontuou 0,3% na quarta rodada; piso operacional depende de conversão de rede profissional e rua |
+| 8 | Anderson Guiné | 70.777 | **4.800 votos** | [@andersonguineofical](https://www.instagram.com/andersonguineofical) | 1.893 | Umbanda, cultura, Samambaia e Guariroba | Forte | Fechamentos com lideranças podem superar o recall pesquisado; precisa transformar parceria em voto mensurável |
+| 9 | Flávio Potiguar | 70.369 | **4.200 votos** | [@flaviopotiguar](https://www.instagram.com/flaviopotiguar) | 5.182 | Empresariado, restaurantes, empregos e rede econômica | Forte | Alto alcance digital, investimento declarado e rede empresarial; voto depende de capilaridade territorial |
+| 10 | Issa | 70.007 | **4.000 votos** | [@issa.distrital](https://www.instagram.com/issa.distrital) | 3.091 | Taguatinga, adesivagem e comunicação local | Média/Forte | Tema territorial claro; precisa converter visualização em mobilização e voto |
+| 11 | Sandra Silva | 70.770 | **3.674 votos** | [@sandrasilvadf](https://www.instagram.com/sandrasilvadf) | 3.942 | Habitação popular e campanha de rua | Média | Potencial comunitário; projeção depende da densidade de lideranças em áreas de habitação |
+| 12 | Professor Wesley | 70.222 | **3.500 votos** | [@proferwesley](https://www.instagram.com/proferwesley) | 25.800 | Gama, Santa Maria, educação e denúncia | Forte | Bom pedidor de voto, mas divide território com Daniel Radar e Wilson Amigão |
+| 13 | Marcele Mama | 70.789 | **3.080 votos** | [@marcele_mama](https://www.instagram.com/marcele_mama) | 17.700 | LGBT+, comércio e comunidade | Média/Forte | Primeira menção de 0,2%; boa possibilidade de voto segmentado e comunitário |
+| 14 | Lau de Paula | 70.700 | **2.801 votos** | [@laudepaula](https://www.instagram.com/laudepaula) | 6.581 | Guará, cultura e música | Média/Forte | Campanha de rua ativa; depende de concentrar voto no Guará e no meio cultural |
+| 15 | Dr. Caio Gracco | 70.999 | **2.570 votos** | [@drcaiogracco](https://www.instagram.com/drcaiogracco) | 4.155 | Saúde, médicos e residentes | Média/Forte | Nicho profissional relevante; precisa ampliar alcance além da categoria |
+| 16 | Clemilton | 70.456 | **2.550 votos** | [@clemiltonsaraivaoficial](https://www.instagram.com/clemiltonsaraivaoficial) | 8.276 | Ceilândia e literatura | Médio | Campanha humilde, com potencial local limitado pela alta concorrência em Ceilândia |
+| 17 | Laurício Radiosaúde | 70.234 | **2.450 votos** | [@lauricioradiosaude](https://www.instagram.com/lauricioradiosaude) | 1.555 | Radiologia e saúde | Fraco/Médio | Pode converter nicho profissional, mas demanda maior presença territorial |
+| 18 | Angélica | 70.022 | **2.300 votos** | [@angelicanasruas](https://www.instagram.com/angelicanasruas) | 1.571 | Militar, Paranoá e Itapoã | Média | Território e segmento definidos; precisa ativar rede militar e comunitária |
+| 19 | Lyly do Avante | 70.707 | **1.678 votos** | [@elianelyly](https://www.instagram.com/elianelyly) | 12.000 | Jornalismo, TVN e Setor O | Fraco/Médio | Tem audiência nominal, mas precisa de conversão em voto territorial |
+| 20 | Dr. Hélio Gomes | 70.122 | **1.507 votos** | [@dr.heliogomess](https://www.instagram.com/dr.heliogomess) | 1.718 | Advocacia e saúde | Médio | Pauta compreensível, mas baixa escala de campanha |
+| 21 | Renato Silveira Barbosa | 70.193 | **1.206 votos** | [@renatosilveirabarbosaadm](https://www.instagram.com/renatosilveirabarbosaadm) | 10.500 | Recanto das Emas, administração e mobilidade | Médio/Forte | Perfil político identificável; pode superar a projeção se ativar a rede administrativa |
+| 22 | Patrícia da Feira | 70.077 | **1.011 votos** | [@patricia_da_feira](https://www.instagram.com/patricia_da_feira) | 2.397 | Feirantes, comerciantes e rua | Fraco/Médio | Base comunitária real, porém limitada por recursos |
+| 23 | Cabo Vitório | 70.190 | **801 votos** | [@cbvitorio](https://www.instagram.com/cbvitorio) | 8.889 | Jornalismo, segurança e digital | Fraco | Boa identificação de perfil, mas estrutura eleitoral limitada |
+| 24 | Gilberto Camargos | 70.333 | **800 votos** | Perfil não informado | 1.724 | Base própria limitada | Fraco | Sem perfil oficial identificado no material-base; exige maior visibilidade |
+| 25 | Mari Teixeira | 70.870 | **579 votos** | [@mari_teixeiradf](https://www.instagram.com/mari_teixeiradf) | 1.202 | Proteção animal | Fraco | Nicho com potencial de ativismo, mas campanha digital ainda pequena |
+|  | **TOTAL PROJETADO** |  | **105.007** |  | **248.654** |  |  | **Cenário de expansão da nominata** |
 
 ---
 
-# 10. Leitura digital dos principais candidatos
+# 6. Análises avançadas por bloco eleitoral
 
-## Rogério Ulysses
+## 6.1. São Sebastião e entorno
 
-- 4.124 interações na semana;
-- 951 comentários, maior número do Avante;
-- 404,6 interações por mil seguidores, melhor desempenho da nominata;
-- 19 publicações;
-- presença recorrente nas quatro pesquisas.
+São Sebastião possui:
 
-> Rogério reúne três forças: **recall pesquisado, identidade territorial e mobilização digital orgânica**. Isso reforça sua posição como principal nome da chapa.
+| Região Administrativa | Eleitorado | % |
+|---|---:|---:|
+| São Sebastião | **69.129** | |
+| Jardim Botânico | **13.187** | |
+| Itapoã | **23.154** |
+| Paranoá | **59.266** | |
+| **Eixo ampliado São Sebastião / Jardim Botânico / Itapoã / Paranoá** | **164.736** |
 
----
+Não foram projetados a Cidade Estrutura, Sobradinho e outras RA's, que o Rogério tem uma forte atuação. 
+> O percentual equivalente da Região 
 
-## Flávio Potiguar
+> ## = 69.129/2.208.300 = x 100 = 3,13%
 
-- 1.922 interações;
-- 29 publicações;
-- 330,5 interações por mil seguidores;
-- 3,78 milhões de visualizações na semana;
-- rede empresarial, restaurantes, empregos e recursos declarados.
+do eleitorado total do Distrito Federal.
 
-> O desempenho digital de Flávio é superior à sua lembrança espontânea medida nas pesquisas. Sua projeção deve considerar potencial de crescimento, mas alcance digital não deve ser tratado como voto automaticamente convertido.
-
----
-
-## Silene da Saúde
-
-- 1.685 interações em apenas 8 publicações;
-- 229,8 interações por mil seguidores;
-- ótimo aproveitamento por conteúdo;
-- presença em quatro pesquisas, entre 0,2% e 0,3%.
-
-> O digital aponta para uma base responsiva. O desafio é transformar mobilização de nicho em voto territorial e setorial em escala.
-
----
-
-## Daniel Radar
-
-- 32 publicações, maior volume entre os principais;
-- 21.409 seguidores;
-- 1.038 interações;
-- 48,5 interações por mil seguidores;
-- presença em três pesquisas, oscilando entre 0,4% e 0,6%.
-
-> Daniel tem presença territorial e volume de campanha, mas seu retorno proporcional no digital é inferior ao de Rogério, Flávio, Silene e Issa. O teto depende da capacidade de converter presença no Gama e em Santa Maria em voto real.
-
----
-
-## Delegado Laércio
-
-- maior base nominal de seguidores: 58.061;
-- 951 interações;
-- 16,4 interações por mil seguidores;
-- presença nas quatro pesquisas, com queda para 0,2% na última rodada;
-- experiência eleitoral e rede ligada à segurança pública.
-
-> A projeção de Laércio depende mais de estrutura política, presença presencial e rede setorial do que do desempenho digital recente.
-
----
-
-## Wilson Amigão
-
-- 10.074 seguidores;
-- 515 interações;
-- 51,1 interações por mil seguidores;
-- histórico informado de cerca de 8.100 votos na eleição anterior;
-- base reconhecida no Gama e campanha com estrutura.
-
-> O histórico de urna é seu principal ativo. O digital atual não sustenta, sozinho, uma projeção muito acima de 10 mil votos; eventual crescimento dependerá da equipe, da rua e da preservação da base eleitoral anterior.
-
----
-
-## Issa
-
-- 3.132 seguidores;
-- crescimento de 50 seguidores na semana;
-- 51.130 visualizações;
-- 664 interações;
-- 212 interações por mil seguidores;
-- 13 das 16 publicações da semana mencionaram Taguatinga;
-- 6º melhor retorno proporcional dentro do Avante.
-
-> Issa possui uma base pequena, mas proporcionalmente engajada e territorializada. Sua força depende de ampliar alcance em Taguatinga e converter visualizações em agenda, contatos, rua e voto.
-
----
-
-# 11. Projeção política ajustada da nominata
-
-A tabela abaixo é uma **projeção de campanha**, não resultado direto de pesquisa.
-
-| Posição | Candidato | Projeção de votos | Base principal |
-|---:|---|---:|---|
-| 1 | **Rogério Ulysses** | **14.500** | São Sebastião, educação, recall, voluntariado e digital |
-| 2 | Wilson Amigão | 12.300 | Gama, histórico eleitoral e equipe |
-| 3 | Daniel Radar | 12.000 | Gama/Santa Maria, comunicação e campanha de rua |
-| 4 | Delegado Laércio | 9.200 | Segurança pública, experiência eleitoral e rede política |
-| 5 | Silene da Saúde | 5.500 | Saúde, voto feminino, categoria e digital responsivo |
-| 6 | Anderson Guiné | 4.800 | Lideranças religiosas, cultura e Samambaia |
-| 7 | Issa | 4.000 | Taguatinga, rua e mobilização digital local |
-| 8 | Evaldo Lobato | 4.200 | Experiência política, rede e equipe - Cel Weder |
-| 9 | Flávio Potiguar | 3.860 | Rede empresarial, restaurantes, investimento e digital |
-| 10 | Sandra Silva | 3.674 | Habitação popular e campanha comunitária |
-| 11 | Professor Wesley | 3.320 | Educação, Gama/Santa Maria e campanha de rua |
-| 12 | Marcele Mama | 3.080 | Comércio, comunidade e segmentos sociais |
-| 13 | Lau de Paula | 2.801 | Guará, cultura e música |
-| 14 | Dr. Caio Gracco | 2.570 | Saúde, residentes e mobilização temática |
-| 15 | Gabriela Freire | 2.563 | Advocacia e rede profissional |
-| 16 | Clemilton | 2.550 | Ceilândia e literatura |
-| 17 | Laurício Radiosaúde | 2.450 | Radiologia e nicho profissional |
-| 18 | Angélica | 2.300 | Militar, Paranoá e Itapoã |
-| 19 | Lyly do Avante | 1.678 | Comunicação, TV e Setor O |
-| 20 | Dr. Hélio Gomes | 1.507 | Advocacia e saúde |
-| 21 | Renato Silveira Barbosa | 1.206 | Recanto das Emas e experiência administrativa |
-| 22 | Patrícia da Feira | 1.011 | Feirantes e comércio |
-| 23 | Cabo Vitório | 801 | Comunicação e digital |
-| 24 | Gilberto Camargos | 800 | Base própria limitada |
-| 25 | Mari Teixeira | 579 | Proteção animal |
-|  | **Total projetado** | **102.920** | **Cenário de expansão** |
-
----
-
-# 12. Como interpretar os 102.920 votos projetados
-
-A soma é matematicamente correta:
+A soma de São Sebastião e Jardim Botânico representa:
 
 |$$
-\boxed{102.920\ votos}
+69.129 + 13.187 = 82.316 \text{ eleitores}
 $$|
 
-Porém, esse total deve ser classificado como **cenário de expansão**, pois pressupõe desempenho simultaneamente alto de:
+> O eixo São Sebastião–Jardim Botânico é estratégico para Rogério Ulysses. Porém, a campanha não deve depender apenas do território de origem: uma votação de 14,5 mil exige combinação entre voto local, voto educacional, mobilização voluntária e expansão para regiões vizinhas.
 
-- Rogério Ulysses;
-- Wilson Amigão;
+---
+
+## 6.2. Gama e Santa Maria
+
+| Região Administrativa | Eleitorado |
+|---|---:|
+| Gama | 128.146 |
+| Santa Maria | 101.750 |
+| **Total do eixo** | **229.896** |
+
+Candidatos com sobreposição de base:
+
 - Daniel Radar;
-- Delegado Laércio;
-- Silene da Saúde;
-- Anderson Guiné;
-- e diversos candidatos médios da nominata.
+- Wilson Amigão;
+- Professor Wesley;
+- candidatos externos, especialmente com atuação regional consolidada.
 
-## Cenários recomendados
+> O eixo Gama/Santa Maria é um dos maiores da nominata, mas também é o principal ponto de canibalização interna. Daniel, Wilson e Wesley podem crescer ao mesmo tempo, porém não devem ser projetados como se disputassem eleitorados inteiramente independentes.
 
-| Cenário | Votação estimada do Avante | Rogério Ulysses | Leitura |
+---
+
+## 6.3. Taguatinga
+
+| Região Administrativa | Eleitorado |
+|---|---:|
+| Taguatinga | **214.516** |
+
+Issa possui uma campanha territorializada em Taguatinga:
+
+- 13 de 16 publicações da semana analisada citaram Taguatinga;
+- o perfil teve 51.130 visualizações;
+- foram 664 interações;
+- houve crescimento de 50 seguidores na semana;
+- o conteúdo de denúncia trouxe alcance, mas não converteu proporcionalmente em curtidas e comentários.
+
+> A oportunidade de Issa está em transformar vídeos de denúncia em captação: endereço específico, rosto de morador, proposta objetiva, marcação de aliados e chamada para grupos de WhatsApp.
+
+---
+
+## 6.4. Samambaia e Guariroba
+
+| Região Administrativa | Eleitorado |
+|---|---:|
+| Samambaia | **159.727** |
+
+Anderson Guiné atua em nichos de:
+
+- cultura;
+- Umbanda;
+- Samambaia;
+- Guariroba;
+- lideranças religiosas e comunitárias.
+
+> O potencial de Anderson não aparece integralmente na pesquisa espontânea. A variável decisiva é a qualidade dos fechamentos: lideranças precisam ser convertidas em listas, compromissos, eventos, grupos e votação territorial verificável.
+
+---
+
+## 6.5. Guará
+
+| Região Administrativa | Eleitorado |
+|---|---:|
+| Guará | **108.326** |
+
+Lau de Paula possui uma pauta cultural e musical associada ao Guará.
+
+> A campanha deve priorizar concentração geográfica. Em candidaturas médias, ganhar densidade em uma RA costuma ser mais eficiente do que tentar disputar o Distrito Federal inteiro sem estrutura proporcional.
+
+---
+
+## 6.6. Ceilândia
+
+| Região Administrativa | Eleitorado |
+|---|---:|
+| Ceilândia | **301.955** |
+
+Clemilton atua em Ceilândia, a maior Região Administrativa do DF em número de eleitores.
+
+> Ceilândia oferece alto potencial absoluto, mas é também uma das regiões mais competitivas. Uma campanha humilde precisa operar por microterritórios: feiras, quadras, grupos culturais, igrejas, escolas e lideranças locais.
+
+---
+
+# 7. São Sebastião — candidatos analisados separadamente
+
+## 7.1. Série de pesquisas dos candidatos associados ao território
+
+| Candidato | P1 | P2 | P3 | P4 | Média das 4 rodadas | Equivalente em votos | Tendência observada |
+|---|---:|---:|---:|---:|---:|---:|---|
+| **Rogério Morro da Cruz** | 1,9% | 1,2% | 0,9% | 0,7% | **1,175%** | **19.858** | Queda nominal de 63,2% entre P1 e P4 |
+| **Rogério Ulysses** | 0,3% | 1,2% | 0,9% | 0,9% | **0,825%** | **13.943** | Crescimento nominal inicial e estabilidade nas duas últimas |
+| Carlão Reclamão | — | 0,3% | — | 0,3% | **0,150%** | **2.535** | Duas menções iguais; sem tendência definida |
+| Aderivaldo Cardoso* | 0,3% | 0,2% | — | — | **0,125%** | **2.113** | Queda entre as duas primeiras menções e ausência posterior |
+| Arcanjo | — | — | — | — | — | — | Não localizado nominalmente nos quadros das quatro pesquisas |
+
+\*O nome localizado nas pesquisas foi **Aderivaldo Cardoso**. A associação com “Capitão Aderivaldo Carozo” deve ser confirmada documentalmente antes de tratar ambos como a mesma candidatura.
+
+> Ausência de menção em uma pesquisa não prova votação zero. Pode indicar percentual abaixo da faixa individualmente divulgada ou inclusão no bloco “Outros”.
+
+---
+
+## 7.2. Leitura territorial de São Sebastião
+
+### Rogério Morro da Cruz
+
+- Possui maior média estrita nas quatro pesquisas;
+- iniciou a série com 1,9%;
+- caiu para 0,7% na quarta rodada;
+- a média matemática corresponde a aproximadamente 19,9 mil votos válidos.
+
+> A queda nominal deve ser tratada com cautela, pois ocorre em percentuais baixos e em amostras independentes. Ainda assim, o movimento aponta redução de recall espontâneo ao longo da série.
+
+### Rogério Ulysses
+
+- Possui 0,9% nas duas últimas pesquisas;
+- apareceu empatado com Morro da Cruz na terceira rodada;
+- superou Morro da Cruz na quarta rodada: 0,9% contra 0,7%;
+- possui marca territorial adicional associada a “Rogérinho de São Sebastião”.
+
+> O dado objetivo não prova transferência direta de votos entre os dois, mas mostra que Rogério Ulysses reduziu a distância inicial e terminou a quarta pesquisa acima do concorrente territorial em recall espontâneo.
+
+### Carlão Reclamão
+
+- Apareceu com 0,3% na segunda e na quarta pesquisa;
+- sua conversão simples entre as rodadas em que apareceu corresponde a aproximadamente 5.070 votos;
+- a média das quatro rodadas corresponde a 2.535 votos, mas penaliza as pesquisas em que ele não foi listado individualmente.
+
+> Carlão apresenta reconhecimento estável nas aparições, mas ainda sem série suficiente para projetar crescimento ou consolidação.
+
+### Aderivaldo Cardoso
+
+- Apareceu com 0,3% na primeira rodada e 0,2% na segunda;
+- não foi localizado nominalmente nas duas pesquisas posteriores;
+- a redução inicial foi de 33,3%.
+
+> A leitura é de recall baixo e instável. Antes de qualquer projeção forte, é necessário confirmar identidade, número, partido, território de campanha e presença digital oficial.
+
+### Arcanjo
+
+- Não foi localizado nominalmente nas quatro pesquisas analisadas.
+
+> Não há base estatística suficiente para conversão em votos. A projeção deve depender exclusivamente de dados operacionais: base territorial, lideranças, agenda, redes sociais, equipe e voto histórico.
+
+---
+
+# 8. Cenários da nominata do Avante
+
+| Cenário | Votação estimada do Avante | Rogério Ulysses | Situação |
 |---|---:|---:|---|
-| Risco | 65 mil a 74 mil | 10,5 mil a 12,5 mil | Partido depende fortemente de sobras |
+| Risco | 65 mil a 74 mil | 10,5 mil a 12,5 mil | Partido depende fortemente das sobras |
 | Conservador | 76 mil a 82 mil | 13 mil a 14 mil | Uma cadeira possível, mas apertada |
 | Base competitiva | 83 mil a 94 mil | 14 mil a 15 mil | Avante competitivo para uma cadeira |
-| Expansão | 95 mil a 103 mil | 15 mil a 17 mil | Uma cadeira forte e disputa de sobras mais favorável |
+| Expansão | 95 mil a 105 mil | 15 mil a 17 mil | Uma cadeira mais forte e melhor posição nas sobras |
+| **Projeção atual** | **105.007** | **14.500** | Limite superior do cenário de expansão |
 
-> A projeção de 102.920 votos deve ser tratada como o limite superior do cenário de expansão, não como resultado-base.
-
----
-
-# 13. Regras eleitorais e barreiras de desempenho
-
-Considerando uma projeção aproximada de:
-
-|$$
-1.690.000 \text{ votos válidos}
-$$|
-
-e 24 vagas para Deputado Distrital:
-
-|$$
-QE = \frac{1.690.000}{24} = 70.417
-$$|
-
-| Regra | Cálculo | Valor aproximado |
-|---|---:|---:|
-| Quociente Eleitoral — QE | 1.690.000 ÷ 24 | 70.417 |
-| Vaga direta: mínimo individual | 10% do QE | 7.042 votos |
-| Sobras: mínimo individual inicial | 20% do QE | 14.083 votos |
-| Sobras: mínimo partidário inicial | 80% do QE | 56.333 votos |
-
-## Interpretação correta
-
-- Para ocupar uma vaga conquistada diretamente pelo partido via Quociente Partidário, o candidato precisa atingir **10% do QE**;
-- para disputar as primeiras etapas das sobras, a legenda deve alcançar cerca de **80% do QE** e o candidato precisa atingir aproximadamente **20% do QE**;
-- atingir 80% do QE **não garante cadeira**: apenas habilita o partido a disputar as sobras, dependendo da média partidária e do desempenho dos demais partidos.
+> A projeção de 105.007 votos é possível, mas pressupõe desempenho simultaneamente alto de Wilson Amigão, Daniel Radar, Silene da Saúde, Evaldo Lobato, Gabriela Freire, Anderson Guiné e dos candidatos médios da chapa.
 
 ---
 
-# 14. Meta eleitoral de Rogério Ulysses
+# 9. Conclusão estratégica
 
-| Meta | Votos | Leitura |
+A nominata do Avante possui três grupos distintos:
+
+| Grupo | Característica | Principais nomes |
+|---|---|---|
+| Liderança de pesquisa e mobilização | Recorrência em pesquisa, território e maior capacidade de mobilização | Rogério Ulysses |
+| Estrutura territorial e eleitoral | Histórico, equipe, categoria profissional ou base regional | Wilson Amigão, Daniel Radar, Delegado Laércio, Silene da Saúde |
+| Potencial de surpresa | Pesquisa inicial, rede profissional, alianças, investimento ou nicho específico | Evaldo Lobato, Gabriela Freire, Anderson Guiné, Flávio Potiguar, Issa |
+
+A principal conclusão é:
+
+> **Rogério Ulysses é o candidato do Avante com maior consistência entre pesquisas, mobilização digital e base territorial.**
+
+A meta de Rogério deve permanecer em:
+
+| Meta | Votos | Significado |
 |---|---:|---|
-| Piso de risco | 10.500 a 12.000 | Queda relevante de recall ou baixa conversão territorial |
-| Conservador | 13.500 a 14.000 | Manutenção de patamar próximo a 0,9% dos válidos |
-| Mínimo operacional | 14.100 | Aproxima-se de 20% do QE no cenário central |
-| Meta de segurança | 14.500 | Protege contra variação do QE e fortalece disputa por sobras |
-| Meta competitiva | 15.000 | Eleva segurança jurídica e política |
-| Expansão | 16.000+ | Amplia distância sobre concorrentes internos |
-
-> Com 1,69 milhão de votos válidos, 20% do QE equivalem a aproximadamente 14.083 votos. Por isso, 14.500 votos é uma meta de segurança mais robusta que 14.100.
+| Piso conservador | 13.500 | Manutenção de patamar próximo a 0,9% dos votos válidos |
+| Meta de segurança | 14.500 | Maior proteção diante da variação do Quociente Eleitoral |
+| Meta competitiva | 15.000 | Melhor condição para liderança interna e disputa por sobras |
+| Expansão | 16.000+ | Distanciamento maior dos demais nomes da chapa |
 
 ---
 
-# 15. Conclusão
-
-As pesquisas mostram uma disputa extremamente fragmentada e com elevada indecisão. Entre os nomes do Avante:
-
-- **Rogério Ulysses tem a maior média de lembrança e aparece nas quatro pesquisas**;
-- Rogério manteve **0,9% nas duas últimas rodadas**, após atingir 1,2% na segunda;
-- a primeira rodada revela reconhecimento adicional sob a marca “Rogérinho de São Sebastião”, ainda que essa menção não deva ser somada automaticamente na série estatística;
-- Daniel Radar, Delegado Laércio e Silene da Saúde também possuem recorrência de pesquisa;
-- Anderson Guiné, Evaldo Lobato, Gabriela Freire e Marcele Mama apresentam sinais iniciais de lembrança;
-- candidatos sem presença nominal nas pesquisas podem ter voto territorial ou de máquina, mas suas projeções devem ser tratadas com maior cautela.
-
-A análise das redes sociais reforça que Rogério não depende exclusivamente da pesquisa:
-
-- liderou o Avante em interações totais;
-- liderou em comentários;
-- obteve o maior retorno proporcional por seguidor;
-- mantém campanha ativa e mobilização voluntária;
-- possui identidade territorial consolidada em São Sebastião.
-
-> **A faixa-base mais prudente para Rogério Ulysses é de 14 mil a 15 mil votos. A meta de segurança é 14,5 mil, e a meta competitiva é 15 mil ou mais.**
-
-> **Para o Avante, a faixa de 83 mil a 94 mil votos representa cenário-base competitivo para uma cadeira. A projeção de 102.920 votos é possível, mas deve ser tratada como cenário de expansão, pois exige desempenho simultaneamente alto de vários candidatos da nominata.**
+**Elaboração:** Davi Santana  
+**Especialista em Data Science Analytics — USP**  
+**Fontes primárias:** pesquisas IGAPE/TV Atual registradas no TSE, planilha de projeção política, dados de eleitorado do DF e relatório de redes sociais.
